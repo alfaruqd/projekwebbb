@@ -1,0 +1,21 @@
+/* Sidebar */
+.app-sidebar {
+    background-image: linear-gradient(to bottom, #58d8d0, #6ec9df, #6080df) !important;
+    color: white;
+}
+
+
+.app-sidebar .nav-link {
+    color: white !important;
+}
+
+.app-sidebar .nav-link.active {
+    background-color: #149fa4 !important; 
+    color: white !important;
+}
+
+/* footer */
+.app-footer {
+    background-color: #e4e5e5 !important; 
+    color: rgb(55, 55, 55);
+}
